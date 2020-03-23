@@ -1,0 +1,23 @@
+---
+title: "DATA 608 Project Proposal"
+author: "Vishal Arora and Samriti Malhotra"
+date: "March 22, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Background
+
+In addition to its severe cost to human life, the novel coronavirus has wreaked havoc on a number of industries including airlines, cruises, and conferences. As people and governments and public health experts stress the importance of social distancing as a way to stem the spread of the contagion, restaurants are seeing major declines in patronage. Across the country the number of COVID-19 cases are increasing - and the number of restaurant patrons are plummeting.Many restaurants are now paralyzed. Governors across the country have issued executive orders restricting or prohibiting seated dining in restaurants - 33 states so far, though all of the states are allowing take-away or delivery orders. The majority of these closures have come on the heels of updated guidelines from the Centers for Disease Control and Prevention recommending people avoid social gatherings of more than 10 people.
+
+## Objective
+
+Coronavirus Is hitting restaurants hard along with hotel & hospitality business, even in states that haven't shut them down. The objective is to give a visual presentation of how covid-19 is wrecking havoc on restaurant business state by state to show how restuarant business is one of the severest hit by covid-19 and how it is impacting the daily wage earners, as restaurant business has one of highest ratio of daily wage earners inlcuding students.
+
+## Data
+
+We used data from restaurant reservation system <a href="https://www.opentable.com/">OpenTable </a> an online restaurant reservation platform.1 OpenTable services almost 60,000 restaurants worldwide, including 35 U.S. states and Washington, D.C., and while its data is not a random sample, but it does offer a glimpse into what's happening in the restaurant industry nationwide.
+
